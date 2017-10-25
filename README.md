@@ -1,2 +1,2 @@
 # hello-git
-a repository
+a repo
